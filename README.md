@@ -2,7 +2,7 @@
 This is an **official** Google Tag Manager tag for the [Conseno CMP](https://conseno.com).
 
 # Author
-[Conseno](https://conseno.com).
+[Conseno](https://conseno.com)
 
 # Release notes
 | Date | Notes |

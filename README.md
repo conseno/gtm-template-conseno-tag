@@ -1,4 +1,4 @@
-# Conseno CMP (including Consent Mode)
+# Conseno CMP (with Consent Mode)
 This is an **official** Google Tag Manager tag for the [Conseno CMP](https://conseno.com).
 
 # Author

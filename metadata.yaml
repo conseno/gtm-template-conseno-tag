@@ -1,0 +1,5 @@
+homepage: "https://conseno.com"
+documentation: "https://conseno.com/installation/google-tag-manager/"
+versions:
+  - sha: 912f053449bc20fb7f00eecb50ce59c923f1dd1e
+    changeNotes: Conseno CMP (with Consent Mode) GTM tag template v1.0

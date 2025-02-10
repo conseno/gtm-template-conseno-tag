@@ -21,3 +21,6 @@ You can import this custom tag directly from the Google Tag Manager Community Te
 1. Download the `.tpl` file from this repository.  
 2. In Google Tag Manager, create a new tag template.
 3. Upload the downloaded `.tpl` file.
+
+# Configuration instructions
+You can find more detailed configuration instructions [here](https://conseno.com/installation/google-tag-manager/).
